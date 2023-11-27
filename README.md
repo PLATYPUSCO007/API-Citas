@@ -43,7 +43,7 @@ Se adjunta el modelo relacional usado para este proyecto.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/PLATYPUSCO007/API-Citas/blob/main/src/public/img/MR%20API%20CITAS.png)
 
 
 ## Documentación
